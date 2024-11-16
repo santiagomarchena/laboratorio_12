@@ -1,0 +1,8 @@
+1. ¿Cómo se modifica el código para calcular el promedio de los números?
+R/: Para calcular el promedio de los números se debe colocar la suma total de los   números sobre el número total de números del array.
+
+2. ¿Qué sucede si se inicializa el contador con un valor negativo?
+R/: Si se inicializa el contador con un valor negativo, se detiene y sale del bucle.
+
+3. ¿Por qué se usa un bucle `do...while` en este caso en lugar de `while`? 
+R/: Se usa un bucle do..while en lugar del while cuando se quiere asegurar que el bloque de código se ejecute al menos una vez antes de comprobar la condición.
